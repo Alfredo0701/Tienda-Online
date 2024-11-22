@@ -1,2 +1,2 @@
 # Tienda-online-
-<img width="950" alt="shop1" src="https://github.com/SistemasGratis/Tienda-online-php8-y-mysql-gratuito/assets/88554898/2b93b141-e650-49d6-88f5-cf700f87b7c9">
+<img width="950" alt="shop1" src="https://github.com/Alfredo0701/Tienda-Online/blob/main/Pantalla%20de%20Inicio%20del%20sistema.png">
